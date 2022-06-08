@@ -1,2 +1,3 @@
-# bbtodo
-A simple todo app using Backbone.js
+# Backbone notes
+
+A simple notes to practice Backbone.js
